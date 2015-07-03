@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "Tara and Jens wedding"
 keywords:    "Tara, Jens, Jaiyeola, von der Linde, wedding"
 description: "Wedding site for Tara and Jens"
-source_link: "https://github.com/jensv/tara_jens_wedding"
+source_link: "https://github.com/jensv/tara_jens_wedding_website"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: #UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
