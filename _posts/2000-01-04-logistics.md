@@ -35,10 +35,10 @@ hotel description
 
 
 -->
-
-###Location
-**The ceremony and reception will take place at 415 Westlake, Seattle WA  **
-  
+<div>
+<h2>Location</h2>
+    <p>Ceremony and Reception will be held at 415 Westlake, Seattle, WA</p>
+</div>
   
 
 <div class="icontain">
