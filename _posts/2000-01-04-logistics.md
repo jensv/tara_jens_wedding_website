@@ -10,8 +10,9 @@ color: white
 
 
 <div>
-    <img src="engagment_looking_border.jpg" title="We hope to see you at the wedding!" alt="We hope to see you at the wedding!"/>
+<img src="img/us/engagment_looking_border.jpg" alt="see you at the wedding!" title="see you at the wedding!" align="middle">
 </div>
+
 
 
 
