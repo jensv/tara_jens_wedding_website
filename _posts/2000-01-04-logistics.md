@@ -35,8 +35,8 @@ hotel description
 
 
 -->
-<div>
-<h2>Location</h2>
+<div class="right">
+<h3>Location</h3>
     <p>Ceremony and Reception will be held at 415 Westlake, Seattle, WA</p>
 </div>
   
