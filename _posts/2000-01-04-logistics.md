@@ -6,6 +6,30 @@ color: white
 
 #Logistics
 
+<div class="right">
+    <h2>Sunday, September 4th, 2016</h2>
+    <p>Ceremony at 4:00pm with reception to follow</p>
+    <p><em>at</em></p>
+    <p>UNION</p>
+    <p>415 Westlake, Seattle, WA</p>
+</div>
+
+
+<div>
+    <img src="engagment_looking_border.jpg" title="We hope to see you at the wedding!" alt="We hope to see you at the wedding!">
+</div>
+
+###Hotel Info
+
+Coming soon!
+
+
+###Location
+
+The ceremony and reception will take place at 415 Westlake, Seattle WA  
+  
+  
+
 <div class="icontain">
 <iframe width="600"
 height="450"
