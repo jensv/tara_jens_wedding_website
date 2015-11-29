@@ -47,6 +47,7 @@ hotel description
 height="450"
 frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBWgLncJJvR2OskQhJpjEYCNzvCGNx1rJA
 &q=place_id:ChIJmdzMhzcVkFQRb6gHaZyEJp8
-&q=place_id:ChIJx87coEkVkFQRzJ_GuWG6qoY"
+&q=place_id:ChIJx87coEkVkFQRzJ_GuWG6qoY" 
+allowfullscreen>
 </iframe>
 </div>
