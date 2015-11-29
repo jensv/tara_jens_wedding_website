@@ -19,8 +19,7 @@ color: white
 
 ### Hotel Info
 
-Wedding hotel room block at Best Western Loyal Inn, 2301 8th Ave, Seattle, WA.
-To reserve please call 206-674-6620 and mention "Linden Wedding".
+We have a block of rooms reserved at Best Western Loyal Inn, 2301 8th Ave, Seattle, WA. To reserve your room please call 206-674-6620 and mention "Linden Wedding".
 
 <!--
 
