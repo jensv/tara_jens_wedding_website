@@ -45,9 +45,10 @@ hotel description
 <div class="icontain">
 <iframe width="600"
 height="450"
-frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBWgLncJJvR2OskQhJpjEYCNzvCGNx1rJA
-&q=place_id:ChIJmdzMhzcVkFQRb6gHaZyEJp8
-&q=place_id:ChIJx87coEkVkFQRzJ_GuWG6qoY" 
+frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBWgLncJJvR2OskQhJpjEYCNzvCGNx1rJA
+&destination=place_id:ChIJmdzMhzcVkFQRb6gHaZyEJp8
+&origin=place_id:ChIJx87coEkVkFQRzJ_GuWG6qoY
+&mode=walking" 
 allowfullscreen>
 </iframe>
 </div>
