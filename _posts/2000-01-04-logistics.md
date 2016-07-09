@@ -15,7 +15,7 @@ color: white
 
 
 
-<\br>
+<br />
 
 ### Hotel Info
 
